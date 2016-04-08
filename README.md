@@ -12,7 +12,7 @@ I'm just checking the process of updating my fork, then creating a pull request 
 4. In Android Studio, add from VCS and enter the git address
 5. Build as Gradle (this was a test file, so not strictly necessary, but done anyway), add VCS root and create .gitignore
 6. Make changes to this file
-7. Commit and push the changes to my repository (local:master branch, remote:origin/master)
+7. Commit and push the changes to my repository (master -> origin/master)
 8. VCS>Git>Create pull request - Base fork=origin/master, Base branch: Angelsone/master)
 9. All going well, Aggelos gets the pull request and merges it on GitHub (not easy to do the merge on Android studio)
 10. If there are conflicts for merge, GitHub tells you to download the file and compare - this is more complex - follow GitHub instructions
