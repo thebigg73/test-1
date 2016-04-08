@@ -4,7 +4,7 @@ testing
 a line
 
 
-I'm just checking the process of updating my fork, then creating a pull request from within Android Studio
+I'm just checking the process of creating a fork, updating my fork, then creating a pull request from within Android Studio
 #Gareth's stuff:
 1. Go to Angelsone on GitHub
 2. Fork the test-1 project - this adds a fork into my repository
