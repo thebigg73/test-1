@@ -14,6 +14,6 @@ I'm just checking the process of updating my fork, then creating a pull request 
 6. Make changes to this file
 7. Commit and push the changes to my repository (master -> origin/master)
 8. VCS>Git>Create pull request - First time it asked me to create a sync/remote link.
-9. Base fork=Angelsone/master (the project I forked FROM), Base branch: master (which of Angelsone's branches I want him to merge my changes to)
+9. Base fork=Angelsone/test (the project I forked FROM), Base branch: master (which of Angelsone's branches I want him to merge my changes to)
 10. All going well, Aggelos gets the pull request and merges it on GitHub (not easy to do the merge on Android studio)
 11. If there are conflicts for merge, GitHub tells you to download the file and compare - this is more complex - follow GitHub instructions
